@@ -16,6 +16,10 @@ source venv/bin/activate
 ```
 pip3 install -r requirements.txt
 ```
+### Populate .env
+- Enter bluesky handle in place of 'username'
+- Generate [app password](https://blueskyfeeds.com/faq-app-password) and replace 'password'
+
 ### Run
 ```
 python3 main.py
