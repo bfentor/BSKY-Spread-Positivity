@@ -2,7 +2,7 @@
 A showcase for a bot capable of replying using the AT Protocol written in python.
 
 ### Usage
-Tag @spreadpositivity3 on [bsky.app](bsky.app) and get a rude and insulting message back.
+Tag @spreadpositivity3 on [bsky.app](https://bsky.app/) and get a rude and insulting message back.
 
 ## Running locally
 
